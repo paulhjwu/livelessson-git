@@ -12,3 +12,7 @@ git log
 git log --oneline
 
 git diff
+
+Git restore
+	Git checkout
+

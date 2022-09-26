@@ -17,6 +17,8 @@ git diff
 Git restore
 	Git checkout
 
+# remote
+	
 Working with remote
 
 - `git pull <WHERE> <WHAT>`: pull the <WHAT> branch in <WHERE> to local computer

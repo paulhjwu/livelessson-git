@@ -18,4 +18,4 @@ Git restore
 
 Working with remote
 
-- `git pull <where> <what>: pull the <what> branch of in <where> to local computer
+- `git pull <WHERE> <WHAT>`: pull the <what> branch of in <where> to local computer

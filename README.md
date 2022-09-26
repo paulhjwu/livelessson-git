@@ -1,4 +1,4 @@
-#Git Notes
+# Git Notes Local
 Just some first line
 
 git init
@@ -17,7 +17,7 @@ git diff
 Git restore
 	Git checkout
 
-# remote
+# Remote Local
 	
 Working with remote
 

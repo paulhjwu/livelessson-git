@@ -35,3 +35,5 @@ Working with remote
 - `git switch -c <NAME>`: create and switch to branch <NAME>
    - `git checkout -b <NAME>`: do the same as above
 - `git merge <BRANCH>`: merge <BRANCH> into your current branch
+- `git rebase`: command to change the history of a commit
+   - `git rebase <BRANCH>`: incorporate changes in <BRANCH> into current branch

@@ -17,3 +17,5 @@ Git restore
 	Git checkout
 
 Working with remote
+
+- `git pull <where> <what>: pull the <what> branch of in <where> to local computer

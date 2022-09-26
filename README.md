@@ -1,3 +1,4 @@
+#Git Notes
 Just some first line
 
 git init

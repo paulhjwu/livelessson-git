@@ -27,7 +27,7 @@ Working with remote
 
 - `git pull <WHERE> <WHAT>`: pull the <WHAT> branch in <WHERE> to local computer
  
-## brnaches
+## Branches
 
 - `git branch <NAME>`: create a branch <NAME> where your <HEAD> is
 - `git switch <NAME>`: move to the branch <NAME>

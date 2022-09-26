@@ -34,3 +34,4 @@ Working with remote
    - `git checkout <NAME>`: also move to the branch <NAME>
 - `git switch -c <NAME>`: create and switch to branch <NAME>
    - `git checkout -b <NAME>`: do the same as above
+- `git merge <BRANCH>`: merge <BRANCH> into your current branch
